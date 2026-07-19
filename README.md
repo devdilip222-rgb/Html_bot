@@ -19,3 +19,11 @@
 git clone https://github.com/your-username/txt-to-html.git
 cd txt-to-html
 pip install -r requirements.txt
+
+
+## 📦 Deploy via Buttons
+
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/devdilip222-rgb/Html_bot)  
+
+
+
