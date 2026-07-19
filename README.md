@@ -1,5 +1,10 @@
 # 📄 TXT to HTML Converter
 
+## 📦 Deploy via Buttons
+
+[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/devdilip222-rgb/Html_bot)  
+
+
 🚀 **TXT to HTML Converter** एक आसान Python टूल है जो किसी भी `.txt` फाइल को सुंदर और व्यवस्थित **HTML फाइल** में बदल देता है।  
 यह उन प्रोजेक्ट्स, बॉट्स, या वेबसाइट्स के लिए परफेक्ट है जिन्हें टेक्स्ट को वेब-फ्रेंडली फॉर्मैट में दिखाना हो।  
 
@@ -21,9 +26,6 @@ cd txt-to-html
 pip install -r requirements.txt
 
 
-## 📦 Deploy via Buttons
-
-[![Deploy to Heroku](https://img.shields.io/badge/Deploy%20to-Heroku-purple?style=for-the-badge&logo=heroku)](https://www.heroku.com/deploy?template=https://github.com/devdilip222-rgb/Html_bot)  
 
 
 
