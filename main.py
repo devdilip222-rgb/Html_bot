@@ -57,7 +57,7 @@ async def start_command(_, message: Message):
         "🔓 /glassmorphism → Glass Effect\n"
         "🔓 /cyberpunk → Neon Tech\n"
         "━━━━━━━━━━━━━━━━━━\n"
-        "👑 By: [ITsGOlU](https://t.me/ITSGOLU_OFFICIAL)"
+        "👑 By: 『ᴀᴅᴍɪɴ』"
     )
 
 @client.on_message(filters.command("neumorphic") & filters.private)
